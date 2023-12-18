@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andres Sepulveda Future Backend Developer!</h1>
-- 🔭 I’m currently working on [proyecto.clave](https://github.com/Andressep/proyecto.clave.git)
+- 🔭 I’m currently working on [proyecto.global](https://github.com/Andressep/globalGTC-backend)
 
 - 🌱 I’m currently learning **Java, Spring, Angular**
 
