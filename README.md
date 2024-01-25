@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Andres Sepulveda Future Backend Developer!</h1>
 - 🔭 I’m currently working on [QuoteMaker](https://github.com/Andressep/QuoteMaker)
 
-- 🌱 I’m currently learning **Java, Spring, Angular**
+- 🌱 I’m currently learning **Golang, Postgres**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Andressep](https://github.com/Andressep)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, MySQL**
+- 💬 Ask me about **HTML, CSS, Bootstrap,Angular,MySQL,Postgres, Java, Springboot, Python, Tailwind and Prompt for ChatGPT**
 
 - 📫 How to reach me **Bodyweightforce@gmail.com**
 
-- ⚡ Fun fact **i am your father...**
+- ⚡ The Programming Language Dosen't Matter...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
