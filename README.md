@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Andressep](https://github.com/Andressep)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap,Angular,MySQL,Postgres, Java, Springboot, Python, Tailwind and Prompt for ChatGPT**
+- 💬 Ask me about **HTML, CSS, Bootstrap,Angular,MySQL,Postgres, Java, Springboot, Python, Tailwind, JasperStudio and Prompt for ChatGPT**
 
 - 📫 How to reach me **Bodyweightforce@gmail.com**
 
